@@ -6,6 +6,8 @@ Note, the `Keys` folder contain templates to identify API keys based on the rege
 
 The `Android` folder contain templates specific to Android app. These templates should only run on decompiled Android app as most of the templates are created to perform `smali` checks.
 
+![alt text](https://raw.githubusercontent.com/optiv/mobile-nuclei-templates/main/nuclei-insecureshop.png) 
+
 
 # How to use?
 
